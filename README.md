@@ -1,15 +1,3 @@
----
-title: Deep Reinforcement Learning Market Maker With Order Book Dynamics
-colorFrom: gray
-colorTo: gray
-sdk: gradio
-sdk_version: 6.7.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: Deep Reinforcement Learning Market Maker
----
-
 # Deep Reinforcement Learning Market Maker with Order Book Dynamics
 
 A production-grade reinforcement learning system for automated market making in high-frequency trading environments. A PPO-trained agent continuously quotes bid and ask prices while managing inventory risk, capturing bid-ask spread, and adapting to real-time order book dynamics. The system demonstrates end-to-end deep RL applied to financial market microstructure.
