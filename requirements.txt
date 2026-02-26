@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+stable-baselines3[extra]
+gymnasium
+pandas
+numpy
+requests
+plotly
+gradio
+scipy
+scikit-learn
+seaborn
+matplotlib

@@ -1,0 +1,318 @@
+{
+  "mean_pnl": 0.0,
+  "final_pnl": 0.0,
+  "sharpe_ratio": 0.0,
+  "max_drawdown": 0.0,
+  "max_drawdown_dollars": 0.0,
+  "fill_rate": 0.0,
+  "mean_spread": 0.012260000000000815,
+  "mean_inventory": 0.0,
+  "mean_episode_return": 0.0,
+  "std_episode_return": 0.0,
+  "training_timesteps": 1500000,
+  "training_time_seconds": 4120.147837638855,
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "initial_cash": 100000.0,
+  "training_history": [
+    {
+      "step": 25000,
+      "mean_reward": -83.3494640493632,
+      "std_reward": 34.11156952378031
+    },
+    {
+      "step": 50000,
+      "mean_reward": -9.90043744706204,
+      "std_reward": 13.847550708559456
+    },
+    {
+      "step": 75000,
+      "mean_reward": 16.580205189074796,
+      "std_reward": 12.830200770653095
+    },
+    {
+      "step": 100000,
+      "mean_reward": 3.405469426169122,
+      "std_reward": 10.59782397494737
+    },
+    {
+      "step": 125000,
+      "mean_reward": 5.239598881086142,
+      "std_reward": 8.694888202947764
+    },
+    {
+      "step": 150000,
+      "mean_reward": 2.1748797845855243,
+      "std_reward": 3.5544224597525633
+    },
+    {
+      "step": 175000,
+      "mean_reward": 0.22527098267592613,
+      "std_reward": 2.201286181915452
+    },
+    {
+      "step": 200000,
+      "mean_reward": 1.3669773546524062,
+      "std_reward": 1.7256901176868469
+    },
+    {
+      "step": 225000,
+      "mean_reward": 1.330953203438262,
+      "std_reward": 2.004713645695647
+    },
+    {
+      "step": 250000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 275000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 300000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 325000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 350000,
+      "mean_reward": -1.4930535765274888,
+      "std_reward": 2.9861071530549776
+    },
+    {
+      "step": 375000,
+      "mean_reward": 0.7613856222538405,
+      "std_reward": 1.5227712445076813
+    },
+    {
+      "step": 400000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 425000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 450000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 475000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 500000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 525000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 550000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 575000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 600000,
+      "mean_reward": 1.465207925490199,
+      "std_reward": 2.930415850980398
+    },
+    {
+      "step": 625000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 650000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 675000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 700000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 725000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 750000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 775000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 800000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 825000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 850000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 875000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 900000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 925000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 950000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 975000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1000000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1025000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1050000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1075000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1100000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1125000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1150000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1175000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1200000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1225000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1250000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1275000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1300000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1325000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1350000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1375000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1400000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1425000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1450000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1475000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    },
+    {
+      "step": 1500000,
+      "mean_reward": 0.0,
+      "std_reward": 0.0
+    }
+  ]
+}
